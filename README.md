@@ -34,7 +34,7 @@ Visit [Local Host](http://localhost/)
 
 ## 📍 Screenshots
 
-![](https://github.com/Tushar-goyal-2712/Cineflix-Website-clone/blob/5b833a3d516c89b04d52bfa75f07d59ad6ff6b08/Screenshots/cineflix-movie.png)
+![](https://github.com/Tushar-goyal-2712/Loop-Studios/blob/2899388ee8f8ca4d51e910b4df512c71a9691bcb/Screenshots/design.png)
 
 ## 📍 Deployment
 
